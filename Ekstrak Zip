@@ -1,0 +1,4 @@
+Buka Folder tempat menyimpan file.zip
+klik kanan dan Masuk ke terminal
+ketik unzip -x file.zip
+klik Enter....Selesai.
